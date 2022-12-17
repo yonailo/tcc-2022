@@ -1,5 +1,18 @@
-# Tiny Code Christmas Demoscene party 20222
+# Tiny Code Christmas Demoscene party 2022
 
-Youtube  : https://www.youtube.com/@Lovebytedemoparty
+Website: https://tcc.lovebyte.party/
 
-Discord : https://discord.gg/Vf6HTnHB
+## Youtube  
+
+Lovebyte demoparty : https://www.youtube.com/@Lovebytedemoparty
+
+* Video 1: https://www.youtube.com/watch?v=p_5wK01-lwA
+* Video 2: https://www.youtube.com/watch?v=HMYd-07rig4
+* Video 3: https://www.youtube.com/watch?v=wcH-iro_cno
+* Video 4: https://www.youtube.com/watch?v=aqueKcqLVS8
+* Video 5: https://www.youtube.com/watch?v=t3cu50bUtPc
+* Video 6: https://www.youtube.com/watch?v=tFv_Mv02x4E
+
+## Discord  
+
+https://discord.gg/Vf6HTnHB
