@@ -16,3 +16,8 @@ Lovebyte demoparty : https://www.youtube.com/@Lovebytedemoparty
 ## Discord  
 
 https://discord.gg/Vf6HTnHB
+
+## Extras
+
+* SIN & COS visualiser: https://tic80.com/play?cart=3115
+* Polar coordinates visualizer: https://tic80.com/play?cart=3116
